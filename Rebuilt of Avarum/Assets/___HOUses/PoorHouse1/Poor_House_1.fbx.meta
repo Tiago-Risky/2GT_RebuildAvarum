@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 30b9a2890cab65e4a8e889b24747e229
+timeCreated: 1580597537
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Casa1_geo
+    100002: detalheParede1_geo
+    100004: detalheParede_geo
+    100006: Glass1_geo
+    100008: Glass2_geo
+    100010: madeiraJanela_geo
+    100012: madeiraJanela_geo1
+    100014: madeiraPorta_geo
+    100016: pedraJanela1_geo
+    100018: pedraJanela2_geo
+    100020: pedraPorta_geo
+    100022: //RootNode
+    100024: Telhado_geo
+    400000: Casa1_geo
+    400002: detalheParede1_geo
+    400004: detalheParede_geo
+    400006: Glass1_geo
+    400008: Glass2_geo
+    400010: madeiraJanela_geo
+    400012: madeiraJanela_geo1
+    400014: madeiraPorta_geo
+    400016: pedraJanela1_geo
+    400018: pedraJanela2_geo
+    400020: pedraPorta_geo
+    400022: //RootNode
+    400024: Telhado_geo
+    2100000: aiStandardSurface1
+    2100002: lambert3
+    2100004: lambert2
+    2100006: lambert8
+    2100008: lambert4
+    2100010: lambert13
+    2100012: lambert11
+    2100014: lambert10
+    2100016: lambert7
+    2100018: lambert6
+    2100020: lambert12
+    2300000: Casa1_geo
+    2300002: detalheParede1_geo
+    2300004: detalheParede_geo
+    2300006: Glass1_geo
+    2300008: Glass2_geo
+    2300010: madeiraJanela_geo
+    2300012: madeiraJanela_geo1
+    2300014: madeiraPorta_geo
+    2300016: pedraJanela1_geo
+    2300018: pedraJanela2_geo
+    2300020: pedraPorta_geo
+    2300022: Telhado_geo
+    3300000: Casa1_geo
+    3300002: detalheParede1_geo
+    3300004: detalheParede_geo
+    3300006: Glass1_geo
+    3300008: Glass2_geo
+    3300010: madeiraJanela_geo
+    3300012: madeiraJanela_geo1
+    3300014: madeiraPorta_geo
+    3300016: pedraJanela1_geo
+    3300018: pedraJanela2_geo
+    3300020: pedraPorta_geo
+    3300022: Telhado_geo
+    4300000: Glass1_geo
+    4300002: Glass2_geo
+    4300004: Casa1_geo
+    4300006: pedraPorta_geo
+    4300008: pedraJanela1_geo
+    4300010: pedraJanela2_geo
+    4300012: madeiraPorta_geo
+    4300014: madeiraJanela_geo
+    4300016: madeiraJanela_geo1
+    4300018: detalheParede1_geo
+    4300020: detalheParede_geo
+    4300022: Telhado_geo
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

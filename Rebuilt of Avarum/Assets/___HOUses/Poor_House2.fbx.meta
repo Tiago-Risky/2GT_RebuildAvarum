@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 2715b666a95f41b46829996c24238e2b
+timeCreated: 1580581387
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Door
+    100002: Door Frame
+    100004: Empty
+    100006: House
+    100008: //RootNode
+    100010: Roof
+    100012: Window
+    100014: Window Frame
+    100016: Window Frame.001
+    100018: Window Frame.002
+    100020: Window Frame.003
+    100022: Window Frame.004
+    100024: Window Frame.005
+    100026: Window Frame.008
+    100028: Window Frame.010
+    100030: Window.001
+    100032: Window.002
+    100034: Window.003
+    100036: Window.004
+    100038: Window.005
+    100040: Window.006
+    100042: Window.007
+    400000: Door
+    400002: Door Frame
+    400004: Empty
+    400006: House
+    400008: //RootNode
+    400010: Roof
+    400012: Window
+    400014: Window Frame
+    400016: Window Frame.001
+    400018: Window Frame.002
+    400020: Window Frame.003
+    400022: Window Frame.004
+    400024: Window Frame.005
+    400026: Window Frame.008
+    400028: Window Frame.010
+    400030: Window.001
+    400032: Window.002
+    400034: Window.003
+    400036: Window.004
+    400038: Window.005
+    400040: Window.006
+    400042: Window.007
+    2100000: House
+    2100002: Roof
+    2100004: Material
+    2100006: Material.010
+    2100008: Material.009
+    2100010: Material.002
+    2100012: Material.001
+    2100014: Material.008
+    2100016: Material.007
+    2100018: Material.003
+    2100020: Material.004
+    2100022: Material.005
+    2100024: Material.006
+    2300000: Door
+    2300002: Door Frame
+    2300004: House
+    2300006: Roof
+    2300008: Window
+    2300010: Window Frame
+    2300012: Window Frame.001
+    2300014: Window Frame.002
+    2300016: Window Frame.003
+    2300018: Window Frame.004
+    2300020: Window Frame.005
+    2300022: Window Frame.008
+    2300024: Window Frame.010
+    2300026: Window.001
+    2300028: Window.002
+    2300030: Window.003
+    2300032: Window.004
+    2300034: Window.005
+    2300036: Window.006
+    2300038: Window.007
+    3300000: Door
+    3300002: Door Frame
+    3300004: House
+    3300006: Roof
+    3300008: Window
+    3300010: Window Frame
+    3300012: Window Frame.001
+    3300014: Window Frame.002
+    3300016: Window Frame.003
+    3300018: Window Frame.004
+    3300020: Window Frame.005
+    3300022: Window Frame.008
+    3300024: Window Frame.010
+    3300026: Window.001
+    3300028: Window.002
+    3300030: Window.003
+    3300032: Window.004
+    3300034: Window.005
+    3300036: Window.006
+    3300038: Window.007
+    4300000: House
+    4300002: Roof
+    4300004: Window Frame
+    4300006: Door Frame
+    4300008: Door
+    4300010: Window
+    4300012: Window.001
+    4300014: Window.002
+    4300016: Window.003
+    4300018: Window.004
+    4300020: Window.005
+    4300022: Window.006
+    4300024: Window.007
+    4300026: Window Frame.008
+    4300028: Window Frame.001
+    4300030: Window Frame.010
+    4300032: Window Frame.002
+    4300034: Window Frame.003
+    4300036: Window Frame.004
+    4300038: Window Frame.005
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
